@@ -8,17 +8,17 @@ I am a PhD Candidate in Financial Engineering at the Applied Probability departm
 
 ## Education
 **Master Applied Mathematics** \
-September 2020 – July 2022
+September 2020 – July 2022 \
 Delft University of Technology
 
-**Bachelor Applied Physics**
-September 2017 – July 2020
+**Bachelor Applied Physics** \
+September 2017 – July 2020 \
 Delft University of Technology
  
-**Bachelor Applied Mathematics**
-September 2017 – July 2020
+**Bachelor Applied Mathematics** \
+September 2017 – July 2020 \
 Delft University of Technology
 
-**Gymnasium**
-August 2011 – June 2017
+**Gymnasium** \
+August 2011 – June 2017 \
 Christelijk Lyceum Veenendaal
