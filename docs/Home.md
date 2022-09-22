@@ -1,5 +1,5 @@
 layout: page
 title: "Jasper Rou"
-permalink: /URL-PATH/
+permalink: /test/
 
 Welcome to my website!
