@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+Title: Jasper Rou
 Adress: Mekelweg 4, 2628 CD Delft, The Netherlands
 Room: 36.HB 07.250
 Email: j.g.rou@tudelft.nl
