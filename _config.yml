@@ -18,8 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jasper Rou
-email: j.g.rou@tudelft.nl
+Adress: Mekelweg 4, 2628 CD Delft, The Netherlands
+Room: 36.HB 07.250
+Email: j.g.rou@tudelft.nl
+Phone: +31 15 27 85406
 description: >- # this means to ignore newlines until "baseurl:"
   PhD candidate in Financial Engineering at TU Delft
 baseurl: "" # the subpath of your site, e.g. /blog
