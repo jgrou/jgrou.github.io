@@ -7,8 +7,8 @@ permalink: /about/
 I am a PhD Candidate in Financial Engineering at the Applied Probability department of the Delft Institute of Applied Mathematcs, TU Delft. My work focusses on neural network algorithms for option pricing. My supervisor is [Antonis Papapantoleon](https://fa.ewi.tudelft.nl/~apapapantoleon/index.html).
 
 ## Education
-**Master Applied Mathematics**
-September 2020 – July 2021
+**Master Applied Mathematics** \\
+September 2020 – July 2022
 Delft University of Technology
 
 **Bachelor Applied Physics**
