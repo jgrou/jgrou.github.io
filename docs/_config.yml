@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the homepage of Jasper Rou
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jasperrou.nl"
+linkedin_username: jasper-rou
 github_username:  jgrou
 
 # Build settings
