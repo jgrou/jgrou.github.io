@@ -5,15 +5,13 @@ permalink: /Education/
 ---
 **Master Applied Mathematics** \
 September 2020 – July 2022 \
-Delft University of Technology
+Delft University of Technology\
+[Master Thesis](https://repository.tudelft.nl/islandora/object/uuid%3A168411df-e00d-4ad2-9dee-0571cf226e18?collection=education)
 
-**Bachelor Applied Physics** \
+**Bachelor Applied Mathematics and Applied Physics** \
 September 2017 – July 2020 \
-Delft University of Technology
- 
-**Bachelor Applied Mathematics** \
-September 2017 – July 2020 \
-Delft University of Technology
+Delft University of Technology\
+[Bachelor Thesis](https://repository.tudelft.nl/islandora/object/uuid%3A95b09b8a-d298-4a13-8543-aad8da3835fa?collection=education)
 
 **Gymnasium** \
 August 2011 – June 2017 \
