@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Education
-permalink: /Education/
+title: Resume
+permalink: /resume/
 ---
+
+## Education
 **Master Applied Mathematics** \
 September 2020 – July 2022 \
 Delft University of Technology\
@@ -10,9 +12,18 @@ Delft University of Technology\
 
 **Bachelor Applied Mathematics and Applied Physics** \
 September 2017 – July 2020 \
-Delft University of Technology\
+Delft University of Technology \
 [Bachelor Thesis](https://repository.tudelft.nl/islandora/object/uuid%3A95b09b8a-d298-4a13-8543-aad8da3835fa?collection=education)
 
 **Gymnasium** \
 August 2011 – June 2017 \
 Christelijk Lyceum Veenendaal
+
+## Work
+**Teaching assistant** \
+September 2018 - July 2022 \
+Delft University of Technology
+
+**Research Intern** \
+August 2021 - November 2021 \
+Transtrend
