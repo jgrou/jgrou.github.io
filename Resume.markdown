@@ -30,7 +30,7 @@ August 2021 - November 2021 \
 Transtrend
 
 ## Free time
-**Board member**
+**Board member** \
 October 2021 - present \
 [N.S.A.F. ZeuS](http://www.studentenatletiek.nl/)
 
@@ -39,9 +39,9 @@ February 2019 - present \
 Atletiekunie
 
 **Co-Founder** \
-November 2018 - October 2021
+November 2018 - October 2021 \
 [D.S.A.V. Dodeka](https://dsavdodeka.nl/)
 
 **Committee member** \
-May 2018 - August 2022
+May 2018 - August 2022 \
 [W.I.S.V. 'Christiaan Huygens'](https://ch.tudelft.nl/)
