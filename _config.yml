@@ -27,6 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jasperrou.nl"
 linkedin_username: jasper-rou
 github_username:  jgrou
+google_scholar_id: AuvzKVwAAAAJ
 
 # Build settings
 theme: minima
