@@ -8,3 +8,5 @@ permalink: /Teaching/
 AM3560 Advanced Probability \
 WI4675 Introduction to Financial Mathematics \
 AM2080 Introduction to Statistics 
+
+## Courses for which I was responsible instructor
