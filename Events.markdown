@@ -3,7 +3,7 @@ layout: page
 title: Events
 permalink: /events/
 ---
-This is a list of events that I attended.
+This is a list of events that I attended/will attend.
 
 ## Conferences
 **SIAM Conference on Financial Mathematics and Engineering** \
