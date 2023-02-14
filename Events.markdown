@@ -3,12 +3,14 @@ layout: page
 title: Events
 permalink: /events/
 ---
-## Attended Conferences
+This is a list of events that I attended.
+
+## Conferences
 **SIAM Conference on Financial Mathematics and Engineering** \
 June 2023 \
 Philadelphia
 
-## Attended summerschools
+## Summerschools
 **Gene Golub SIAM Summer School on Financial Analytics** \
 August 2022 \
 Grans Sasso Science Institute
