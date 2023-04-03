@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-permalink: /Teaching/
+permalink: /teaching/
 ---
 This is a list of courses for which I was instructor at Delft University of Technology.
 
