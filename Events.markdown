@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Events
-permalink: /events/
+title: Talks
+permalink: /Talks/
 ---
 This is a list of events that I attended/will attend.
 
-## Conferences
+## 2023
 **SIAM Conference on Financial Mathematics and Engineering** \
-June 2023, Philadelphia
+June 8, Philadelphia
 
-## Summerschools
-**Gene Golub SIAM Summer School on Financial Analytics** \
-August 2022, Grans Sasso Science Institute
+##2022
+**Delft FinTech congress** \
+November 4, Delft
