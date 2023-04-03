@@ -4,6 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 For a complete overview, check my [LinkedIn](https://www.linkedin.com/in/jasper-rou/)
+<a href="https://www.example.com">Link to External Site</a>
 
 ## Education
 **Master Applied Mathematics** \
