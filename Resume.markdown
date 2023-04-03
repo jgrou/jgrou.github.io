@@ -31,4 +31,4 @@ Delft University of Technology
 
 **Research Intern** \
 August 2021 - November 2021 \
-Transtrend
+[Transtrend](https://www.transtrend.com/en/)
