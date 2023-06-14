@@ -6,10 +6,6 @@ permalink: /resume/
 For a complete overview, check my [LinkedIn](https://www.linkedin.com/in/jasper-rou/)
 
 ## Education
-**Gene Golub SIAM Summer School on Financial Analytics** \
-August 2022\
-Grans Sasso Science Institute
-
 **Master Applied Mathematics** \
 September 2020 – July 2022 \
 Delft University of Technology\
@@ -25,10 +21,6 @@ August 2011 – June 2017 \
 Christelijk Lyceum Veenendaal
 
 ## Work
-**Teaching assistant** \
-September 2018 - July 2022 \
-Delft University of Technology
-
 **Research Intern** \
 August 2021 - November 2021 \
 [Transtrend](https://www.transtrend.com/en/)
