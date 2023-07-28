@@ -7,7 +7,7 @@ For a complete overview, check my [LinkedIn](https://www.linkedin.com/in/jasper-
 
 **PhD Applied Mathematics** \
 September 2022 – present \
-Delft University of Technology\
+Delft University of Technology
 
 **Master Applied Mathematics** \
 September 2020 – July 2022 \
