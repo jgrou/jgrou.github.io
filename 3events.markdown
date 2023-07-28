@@ -20,6 +20,7 @@ Received SIAM Travel Award \
 
 **Delft FinTech congress** \
 November 4 2022, Delft
+[Slides](Presentation_FinTech.pdf)
 
 **Gene Golub SIAM Summer School on Financial Analytics** \
 August 1-12 2022 \
