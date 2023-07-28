@@ -16,7 +16,7 @@ Foundation for Research and Technology Hellas, Heraklion, Greece\
 **SIAM Conference on Financial Mathematics and Engineering** \
 June 8 2023, Philadelphia \
 Received SIAM Travel Award
-[Slides](SIAM presentation (5))
+[Slides](SIAM_presentation (5).pdf)
 
 **Delft FinTech congress** \
 November 4 2022, Delft
