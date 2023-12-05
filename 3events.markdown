@@ -4,6 +4,9 @@ title: Events
 permalink: /events/
 ---
 
+**Finance Research Day**\
+December 15 2023, Delft University
+
 **European Summer School in Financial Mathematics**\
 September 4-8 2023 \
 Delft University of Technology, Delft, Netherlands
@@ -14,7 +17,7 @@ Foundation for Research and Technology Hellas, Heraklion, Greece \
 [Poster](documents/SMFP23_Poster.pdf)
 
 **SIAM Conference on Financial Mathematics and Engineering** \
-June 8 2023, Philadelphia \
+June 6-9 2023, Philadelphia \
 Received SIAM Travel Award \
 [Slides](documents/SIAM_presentation.pdf)
 
