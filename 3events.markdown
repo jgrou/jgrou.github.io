@@ -4,8 +4,12 @@ title: Events
 permalink: /events/
 ---
 
+**International Conference on Computational Finance**\
+April 2-4 2024, Amsterdam \
+Organizing a mini-symposium on Machine Learning methods in Finance
+
 **Finance Research Day**\
-December 15 2023, Delft
+December 15 2023, Delft \
 [Slides](documents/Finance_Research_Day.pdf)
 
 **European Summer School in Financial Mathematics**\
