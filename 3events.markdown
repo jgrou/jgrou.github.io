@@ -6,6 +6,7 @@ permalink: /events/
 
 **Finance Research Day**\
 December 15 2023, Delft
+[Slides](documents/Finance_Research_Day.pdf)
 
 **European Summer School in Financial Mathematics**\
 September 4-8 2023 \
