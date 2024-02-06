@@ -5,7 +5,7 @@ permalink: /events/
 ---
 
 **International Conference on Computational Finance**\
-April 2-4 2024, Amsterdam \
+April 2-5 2024, Amsterdam \
 Organizing a mini-symposium on Machine Learning methods in Finance
 
 **Finance Research Day**\
