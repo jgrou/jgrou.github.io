@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 This is a list of courses for which I was instructor at Delft University of Technology.
 
-**Introduction to Financial Mathematics**
+**Introduction to Financial Mathematics**\
 2022-present \
 Master course
 
