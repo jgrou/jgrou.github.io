@@ -5,19 +5,14 @@ permalink: /teaching/
 ---
 This is a list of courses for which I was instructor at Delft University of Technology.
 
-## 2023-2024
-**Introduction to Financial Mathematics**\
+**Introduction to Financial Mathematics**
+2022-present \
 Master course
 
 **Introduction to Statistics**\
+2022-2024 \
 Second year bachelor course
 
-## 2022-2023
 **Advanced Probability**\
+2023 \
 Third year elective in the bachelor
-
-**Introduction to Financial Mathematics**\
-Master course
-
-**Introduction to Statistics**\
-Second year bachelor course
