@@ -4,6 +4,12 @@ title: Events
 permalink: /events/
 ---
 
+**12th Bachelier World Congress**\
+July 8-12 2024, Rio de Janeiro
+
+**Workshop on Computational and Mathematical Methods in Data Science**\
+April 25-26 2024, Delft
+
 **International Conference on Computational Finance**\
 April 2-5 2024, Amsterdam \
 Organizing a mini-symposium on Machine Learning methods in Finance
