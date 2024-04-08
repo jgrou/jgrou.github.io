@@ -12,7 +12,7 @@ April 25-26 2024, Delft
 
 **International Conference on Computational Finance**\
 April 2-5 2024, Amsterdam \
-Organizer of a mini-symposium on Machine Learning methods in Finance
+Organizer of a mini-symposium on Machine Learning methods in Finance \
 [Slides](documents/ICCF.pdf)
 
 **Finance Research Day**\
