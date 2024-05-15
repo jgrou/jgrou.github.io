@@ -7,6 +7,9 @@ permalink: /events/
 **12th Bachelier World Congress**\
 July 8-12 2024, Rio de Janeiro
 
+**Dutch Math Finance Afternoon**\
+June 7 2024, Amsterdam
+
 **Workshop on Computational and Mathematical Methods in Data Science**\
 April 25-26 2024, Delft \
 [Slides](documents/CoMinDS.pdf)
