@@ -4,6 +4,9 @@ title: Events
 permalink: /events/
 ---
 
+**7th Berlin Workshop on Mathematical Finance for Young Researchers**\
+September 4-6 2024, Berlin
+
 **12th Bachelier World Congress**\
 July 8-12 2024, Rio de Janeiro
 
@@ -33,8 +36,7 @@ September 4-8 2023 \
 Delft University of Technology, Delft, Netherlands
 
 **4th Workshop on Stochastic Methods in Finance and Physics** \
-July 17-21 2023 \
-Foundation for Research and Technology Hellas, Heraklion, Greece \
+July 17-21 2023, Heraklion \
 [Poster](documents/SMFP23_Poster.pdf)
 
 **SIAM Conference on Financial Mathematics and Engineering** \
