@@ -4,11 +4,15 @@ title: Events
 permalink: /events/
 ---
 
+**22nd Winter school on Mathematical Finance**\
+January 20-22 2025, Soesterberg
+
 **7th Berlin Workshop on Mathematical Finance for Young Researchers**\
 September 4-6 2024, Berlin
 
 **12th Bachelier World Congress**\
-July 8-12 2024, Rio de Janeiro
+July 8-12 2024, Rio de Janeiro \
+[Slides](documents/Bachelier.pdf)
 
 **Seminar National Technical University Athens**\
 June 14 2024, Athens \
