@@ -4,13 +4,13 @@ title: Events
 permalink: /events/
 ---
 
-**22nd Winter school on Mathematical Finance**\
+**Winter school on Mathematical Finance**\
 January 20-22 2025, Soesterberg
 
-**7th Berlin Workshop on Mathematical Finance for Young Researchers**\
+**Berlin Workshop on Mathematical Finance for Young Researchers**\
 September 4-6 2024, Berlin
 
-**12th Bachelier World Congress**\
+**Bachelier World Congress**\
 July 8-12 2024, Rio de Janeiro \
 [Slides](documents/Bachelier.pdf)
 
@@ -39,7 +39,7 @@ December 15 2023, Delft \
 September 4-8 2023 \
 Delft University of Technology, Delft, Netherlands
 
-**4th Workshop on Stochastic Methods in Finance and Physics** \
+**Workshop on Stochastic Methods in Finance and Physics** \
 July 17-21 2023, Heraklion \
 [Poster](documents/SMFP23_Poster.pdf)
 
