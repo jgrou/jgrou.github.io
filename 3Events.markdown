@@ -8,7 +8,8 @@ permalink: /events/
 January 20-22 2025, Soesterberg
 
 **Berlin Workshop on Mathematical Finance for Young Researchers**\
-September 4-6 2024, Berlin
+September 4-6 2024, Berlin \
+[Poster](documents/Berlin.pdf)
 
 **Bachelier World Congress**\
 July 8-12 2024, Rio de Janeiro \
