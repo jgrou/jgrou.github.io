@@ -5,7 +5,8 @@ permalink: /events/
 ---
 
 **Winter school on Mathematical Finance**\
-January 20-22 2025, Soesterberg
+January 20-22 2025, Soesterberg \
+[Slides](documents/Winter_school.pdf)
 
 **Berlin Workshop on Mathematical Finance for Young Researchers**\
 September 4-6 2024, Berlin \
