@@ -9,7 +9,8 @@ July 15-18 2025, Miami
 
 **General AMaMeF Conference**\
 June 23-27 2025, Verona \
-Received G-Research grant
+Received G-Research grant \
+[Slides](documents/AMaMeF.pdf)
 
 **Winter school on Mathematical Finance**\
 January 20-22 2025, Soesterberg \
