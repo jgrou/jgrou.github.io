@@ -5,7 +5,8 @@ permalink: /events/
 ---
 
 **SIAM Conference on Financial Mathematics and Engineering**\
-July 15-18 2025, Miami
+July 15-18 2025, Miami \
+[Slides](documents/SIAM_FM25.pdf)
 
 **General AMaMeF Conference**\
 June 23-27 2025, Verona \
