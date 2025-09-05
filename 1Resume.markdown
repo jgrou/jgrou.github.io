@@ -5,8 +5,12 @@ permalink: /resume/
 ---
 For a complete overview, check my [LinkedIn](https://www.linkedin.com/in/jasper-rou/)
 
+**Quant Researcher** \
+September 2025 – present \
+Da Vinci
+
 **PhD Applied Mathematics** \
-September 2022 – present \
+September 2022 – August 2025 \
 Delft University of Technology
 
 **Master Applied Mathematics** \
