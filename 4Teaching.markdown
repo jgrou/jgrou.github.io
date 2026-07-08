@@ -14,9 +14,21 @@ Master course for engineering students
 Master course
 
 **Introduction to Statistics**\
-2022/2023-2022/2024 \
+2019/2020-2022/2024 \
 Second year bachelor course
 
 **Advanced Probability**\
 2022/2023 \
 Third year elective in the bachelor
+
+**Optimization**\ 
+2021/2022 \
+Second year bachelor course
+
+**Algebra 1**\ 
+2019/2020-2021/2022 \
+First year bachelor course
+
+**Analysis 1**\
+2018/2019 \
+First year bachelor course
