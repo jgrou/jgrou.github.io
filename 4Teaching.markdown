@@ -21,11 +21,11 @@ Second year bachelor course
 2022/2023 \
 Third year elective in the bachelor
 
-**Optimization**\ 
+**Optimization**\
 2021/2022 \
 Second year bachelor course
 
-**Algebra 1**\ 
+**Algebra 1**\
 2019/2020-2021/2022 \
 First year bachelor course
 
