@@ -12,4 +12,4 @@ Rou, J. (2025). Time Deep Gradient Flow Method for pricing American options. [ar
 
 Rou, J. (2025). Error Analysis of Deep PDE Solvers for Option Pricing. [arXiv preprint arXiv:2505.05121](https://arxiv.org/abs/2505.05121).
 
-Papapantoleon, A. & Rou, J. (2024). A time-stepping deep gradient flow method for option pricing in (rough) diffusion models. Quantitative Finance 25 (12), 2009-2020.
+Papapantoleon, A. & Rou, J. (2025). A time-stepping deep gradient flow method for option pricing in (rough) diffusion models. Quantitative Finance 25 (12), 2009-2020.
