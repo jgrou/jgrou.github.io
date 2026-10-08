@@ -6,7 +6,7 @@ permalink: /resume/
 For a complete overview, check my [LinkedIn](https://www.linkedin.com/in/jasper-rou/)
 
 **Quant Researcher** \
-September 2025 – April 2026 \
+September 2025 – August 2026 \
 Da Vinci
 
 **PhD Applied Mathematics** \
